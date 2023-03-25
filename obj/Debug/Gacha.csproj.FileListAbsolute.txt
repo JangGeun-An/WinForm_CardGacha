@@ -1,0 +1,13 @@
+C:\Users\Zeek\source\repos\Gacha\obj\Debug\Gacha.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\Gacha\obj\Debug\Gacha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeek\source\repos\Gacha\obj\Debug\Gacha.Gacha.resources
+C:\Users\Zeek\source\repos\Gacha\obj\Debug\Gacha.Properties.Resources.resources
+C:\Users\Zeek\source\repos\Gacha\obj\Debug\Gacha.csproj.GenerateResource.cache
+C:\Users\Zeek\source\repos\Gacha\obj\Debug\Gacha.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\Gacha\bin\Debug\Gacha.exe.config
+C:\Users\Zeek\source\repos\Gacha\bin\Debug\Gacha.exe
+C:\Users\Zeek\source\repos\Gacha\bin\Debug\Gacha.pdb
+C:\Users\Zeek\source\repos\Gacha\obj\Debug\Gacha.exe
+C:\Users\Zeek\source\repos\Gacha\obj\Debug\Gacha.pdb
+C:\Users\Zeek\source\repos\Gacha\obj\Debug\Interop.WMPLib.dll
+C:\Users\Zeek\source\repos\Gacha\obj\Debug\Gacha.csproj.ResolveComReference.cache
